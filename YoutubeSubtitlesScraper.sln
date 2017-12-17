@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSubtitlesScraper", "YoutubeSubtitlesScraper\YoutubeSubtitlesScraper.csproj", "{3F1AB063-1B8C-4303-84B0-B81231123BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1AB063-1B8C-4303-84B0-B81231123BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1AB063-1B8C-4303-84B0-B81231123BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1AB063-1B8C-4303-84B0-B81231123BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1AB063-1B8C-4303-84B0-B81231123BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970293D8-5812-4F3B-A642-2FAF252C7D6F}
+	EndGlobalSection
+EndGlobal
